@@ -1,2 +1,2 @@
 # Proyek_Pemrograman
-bertujuan untuk membuat website penjualan
+bertujuan untuk membuat website pemesanan jersey custom
